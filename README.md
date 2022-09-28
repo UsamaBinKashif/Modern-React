@@ -1,4 +1,12 @@
-### To watch json file
+<div align="center">
+
+# Full Modern React Tutorial by [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
+
+
+</div>
+
+
+### To watch json file 
 
 ```
 npx json-server --watch database/db.json --port 8000
