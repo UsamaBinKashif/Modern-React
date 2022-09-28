@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "Complete-React-Tutorial",
+      "body": "All course files for the Complete React Tutorial on the Net Ninja YouTube channel.\n\nTo use, select the correct branch for each Lesson. E.g for lesson 5 code, select the lesson-5 branch from the drop-down.\ngithub:https://github.com/iamshaunjp/Complete-React-Tutorial",
+      "author": "Usama",
+      "id": 1
+    }
+  ]
+}
